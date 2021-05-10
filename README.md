@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi this is Himani Verma 👋
 
-- 😄 Hi, this is Himani Verma currently an UG at NIT Surat
+- 😄 I'm currently a 2nd year CSE Student at NIT Surat
 - 🌱 I’m currently inclined into Web and App Development
 - 👯 I’m looking to collaborate on any real life project 
-- 📫 I'm open to Suggestions, so feel free to ping me incase🤗
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=himified)
-
-<!--
-**Himified/himified** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+- 📫 I'm open to Suggestions, so feel free to ping me incase🤗 
+  -  🖋️[Linkedin](https://www.linkedin.com/in/himani-verma-94730a1a5/)   
+  -  ✉️[E-Mail](emuverma1@gmail.com)
+ 
+![Github stats](https://github-readme-stats.vercel.app/api?username=himified&show_icons=true&theme=dark&count_private=true&show_icons=true)
 
 
--->
+
