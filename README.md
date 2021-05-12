@@ -1,7 +1,7 @@
 # Hi this is Himani Verma 👋
 
 - 😄 I'm currently a 2nd year CSE Student at NIT Surat
-- 🌱 I’m currently inclined into Web and App Development
+- 🌱 I’m currently into Web and App Development
 - 👯 I’m looking to collaborate on any real life project 
 - 📫 I'm open to Suggestions, so feel free to ping me incase🤗 
   -  🖋️[Linkedin](https://www.linkedin.com/in/himani-verma-94730a1a5/)   
