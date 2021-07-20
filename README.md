@@ -1,6 +1,6 @@
 # Hi this is Himani Verma 👋
 
-- 😄 I'm currently a 2nd year CSE Student at NIT Surat
+- 😄 I'm currently a 3rd year CSE Student at NIT Surat
 - 🌱 I’m currently into Web and App Development
 - 👯 I’m looking to collaborate on any real life project 
 - 📫 I'm open to Suggestions, so feel free to ping me incase🤗 
